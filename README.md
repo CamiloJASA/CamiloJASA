@@ -28,5 +28,6 @@ _"Ciencia, Arte, Libertad"_
 </p>
 
  ## 🌎✉ &nbsp;&nbsp;Me puedes encontrar en:
- <a href="https://twitter.com/CamiloJASA">Twitter</a>
- <a href="https://platzi.com/p/camilosalinasjazk/">Platzi</a>
+ -<a href="https://twitter.com/CamiloJASA">Twitter</a>
+ -<a href="https://platzi.com/p/camilosalinasjazk/">Platzi</a>
+ -<a href="https://mx.linkedin.com/in/camilo-jacinto-salinas-6aa2871b0">Platzi</a>
