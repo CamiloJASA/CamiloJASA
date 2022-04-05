@@ -3,7 +3,7 @@
  <img src="./FB_IMG_1649120078629_edit_8389402275802.jpg" alt="Escuela de Ciencias" />
  </p>
  
-                                  _"Ciencia, Arte, Libertad"_
+                                         "Ciencia, Arte, Libertad"
  
  
  Hola, Soy estudiante de la licenciatura en Computación de **Escuela de Ciencias-UABJO**
@@ -15,6 +15,7 @@
  
  
  <p align="center">
+ 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
@@ -40,6 +41,8 @@
  
  
  ## 📈 &nbsp;&nbsp;Algunas de mis estadísticas son :
+ 
+ 
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=CamiloJASA&theme=midnight-purple&show_icons=true&hide=contribs" />
 </p>
