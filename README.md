@@ -3,12 +3,14 @@
  <img src="./FB_IMG_1649120078629_edit_8389402275802.jpg" alt="Escuela de Ciencias" />
  </p>
                                 _"Ciencia, Arte, Libertad"_
+                                
  Hola, Soy estudiante de la licenciatura en Computación de **Escuela de Ciencias-UABJO**
  Estoy aprendiendo acerca de la gestion de proyectos de desarrollo de software y doy mis primeros pasos en TypeScript y otros lenguajes.
 
 
 
  Estoy aprendiendo o se acerca de algunas de las siguentes tecnologias:
+ 
  
  <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
@@ -25,12 +27,14 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp" />&nbsp;&nbsp;
 </p>
 
+
  ## 🌎✉ &nbsp;&nbsp;Me puedes encontrar en:
  -<a href="https://twitter.com/CamiloJASA">Twitter</a>
  
  -<a href="https://platzi.com/p/camilosalinasjazk/">Platzi</a>
  
  -<a href="https://mx.linkedin.com/in/camilo-jacinto-salinas-6aa2871b0">Platzi</a>
+ 
  
  
  ## 📈 &nbsp;&nbsp;Algunas de mis estadísticas son :
