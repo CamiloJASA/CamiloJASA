@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 <p align="center">
  <img src="./FB_IMG_1649120078629_edit_8389402275802.jpg" alt="Escuela de Ciencias" />
  </p>
 
-# Hola, Soy estudiante de la licenciatura en Computación de Escuela de Ciencias-UABJO
-# Estoy aprendiendo acerca de la gestion de proyectos de desarrollo de software y doy mis primeros pasos en TypeScript y otros lenguajes.
+ Hola, Soy estudiante de la licenciatura en Computación de **Escuela de Ciencias-UABJO**
+ Estoy aprendiendo acerca de la gestion de proyectos de desarrollo de software y doy mis primeros pasos en TypeScript y otros lenguajes.
 
+<p aling="center" _"Ciencia, Arte, Libertad"_ </p>
 
  Estoy aprendiendo o se acerca de algunas de las siguentes tecnologias
 #<p align="center">
