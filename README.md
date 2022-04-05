@@ -1,7 +1,6 @@
 ### Hi there 👋
 <p align="center">
- <img src="https://scontent.foax2-1.fna.fbcdn.net/v/t1.6435-9/148286042_449291976493206_791357653100263825_n.jpg
-" alt="Escuela de Ciencias" />
+ <img src="./FB_IMG_1649120078629_edit_8389402275802.jpg" alt="Escuela de Ciencias" />
  </p>
 
 Hola, Soy estudiante de la licenciatura en Computación de Escuela de Ciencias-UABJO
