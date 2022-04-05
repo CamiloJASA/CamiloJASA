@@ -35,7 +35,7 @@
  -<a href="https://mx.linkedin.com/in/camilo-jacinto-salinas-6aa2871b0">Platzi</a>
  
  
- ## 📈 &nbsp;&nbsp;Some of my stats are:
+ ## 📈 &nbsp;&nbsp;Algunas de mus :
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=CamiloJASA&theme=buefy&show_icons=true&hide=contribs" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=CamiloJASA&theme=tokyonight&show_icons=true&hide=contribs" />
 </p>
