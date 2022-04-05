@@ -29,7 +29,7 @@ _"Ciencia, Arte, Libertad"_
 
 Me puedes encontrar en:
  <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://platzi.com/p/camilosalinasjazk/" alt="Linkedin" />&nbsp;&nbsp;
+  <img href="https://platzi.com/p/camilosalinasjazk/"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />&nbsp;&nbsp;
  
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />&nbsp;&nbsp;
