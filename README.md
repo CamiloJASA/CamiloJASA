@@ -3,7 +3,7 @@
  <img src="./FB_IMG_1649120078629_edit_8389402275802.jpg" alt="Escuela de Ciencias" />
  </p>
  
-                                         "Ciencia, Arte, Libertad"
+    "Ciencia, Arte, Libertad"
  
  
  Hola, Soy estudiante de la licenciatura en Computación de **Escuela de Ciencias-UABJO**
