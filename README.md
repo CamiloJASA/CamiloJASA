@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
- <img src="https://scontent.foax2-1.fna.fbcdn.net/v/t1.6435-9/148286042_449291976493206_791357653100263825_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ZyGY4-0T2QwAX8IHgVu&_nc_oc=AQlx2HYzPUfLhLKzPCBvDQHREGR4otmpvAoiAXJCo_1sjI_UAmiD1LNJ15CoqBEmG9k&_nc_ht=scontent.foax2-1.fna&oh=00_AT-DrDhulc56pVoW_fRxnKwhFJnqLfdfkDBZ9moEpA4oiw&oe=626FFD7A
+ <img src="https://scontent.foax2-1.fna.fbcdn.net/v/t1.6435-9/148286042_449291976493206_791357653100263825_n.jpg
 " alt="Escuela de Ciencias" />
  </p>
 
