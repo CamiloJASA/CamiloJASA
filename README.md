@@ -6,10 +6,11 @@
  Hola, Soy estudiante de la licenciatura en Computación de **Escuela de Ciencias-UABJO**
  Estoy aprendiendo acerca de la gestion de proyectos de desarrollo de software y doy mis primeros pasos en TypeScript y otros lenguajes.
 
-<p aling="center" _"Ciencia, Arte, Libertad"_ </p>
+_"Ciencia, Arte, Libertad"_
 
- Estoy aprendiendo o se acerca de algunas de las siguentes tecnologias
-#<p align="center">
+ Estoy aprendiendo o se acerca de algunas de las siguentes tecnologias:
+ 
+ <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
@@ -24,5 +25,14 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp" />&nbsp;&nbsp;
+</p>
+
+Me puedes encontrar en:
+ <p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://platzi.com/p/camilosalinasjazk/" alt="Linkedin" />&nbsp;&nbsp;
  
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp" />&nbsp;&nbsp;
 </p>
